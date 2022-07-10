@@ -3,7 +3,7 @@ import React from 'react'
 const Menu = () => {
   return (
     <>
-    <h3>This is the menu component</h3>
+        <h3>Welcome!</h3>
     </>
   )
 }
